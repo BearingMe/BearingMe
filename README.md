@@ -3,6 +3,14 @@
 Welcome to my personal GitHub account, here I store all my creative genius 💡.   
 Every project I like, being big or small, old or new, may be showcased here. So, don't be surprised if you come across a classic "hello world" written in some ancient legacy boilerplate language like Java, it is all part of the journey 🚀.   
 
+### A little about me:
+- 👋 People call me Smith;
+- 💬 Can go by He/Him, They/Their;
+- 🎓 Studying Civil Eng;
+- 🐍 Python lover, 🦀 Rust fanatic & 🐧 Linux nut
+- 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian food;
+- 🤪 Speaking English like a boss...sorta.
+
 Enjoy browsing through my work and feel free to reach out with any questions!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
