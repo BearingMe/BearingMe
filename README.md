@@ -11,8 +11,23 @@ Every project I like, being big or small, old or new, may be showcased here. So,
 - 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian music;
 - 🤪 Speaking English like a boss...sorta.
 
+### My organizations:
+- [Cli Projects][0];
+- [Web Scrapping][1];
+- [Backend Development][2];
+- [Frontend Development][3];
+- [DevOps][4];
+- [Miscellaneous][5].
+
 Well, that's all folks. I hope you enjoy browsing through my work, feel free to reach out with any questions!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/gmail-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)
 ![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white) 
+
+[0]: https://github.com/AstronomicalEntities
+[1]: https://github.com/ClassicLiterature
+[2]: https://github.com/MythicalGods
+[3]: https://github.com/ChemicalElements
+[4]: https://github.com/MusicLegends
+[5]: https://github.com/JapaneseLegends
