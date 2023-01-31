@@ -1,25 +1,28 @@
-# Greetings, thou art invited to my hacker hideout 🔥🎉
+# Greetings, thou art invited to my hideout 🔥
 
-Welcome to my personal GitHub account! Here I store all my creative genius 💡.   
+Welcome to my personal GitHub account, here I store all my creative genius 💡.   
+
 Every project I like, being big or small, old or new, may be showcased here. So, don't be surprised if you come across a classic "hello world" written in some ancient legacy boilerplate language like Java, it is all part of the journey 🚀.   
 
-### Here is a little about me:
-- 👋 People call me Smith;
-- 💬 Can go by He/Him, They/Their;
-- 🎓 Studying Civil Eng;
+### Who am I?
+- 👋 A.k.a Smith
+- 💬 He/Him, They/Their, It/Its or Honey
+- 🎓 Student of Civil Eng
 - 🐍 Python lover, 🦀 Rust fanatic & 🐧 Linux nut
-- 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian music;
-- 🤪 Speaking English like a boss...sorta.
+- 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian music
+- 🤪 Speaking English like a boss...sorta
 
-### My organizations:
-- [Cli Projects][0];
-- [Web Scrapping][1];
-- [Backend Development][2];
-- [Frontend Development][3];
-- [DevOps][4];
-- [Miscellaneous][5].
+### Where is my code?
+I created some organizations to keep things clean. You can start with those:
+- [Cli Projects][0]: cause GUI is for mortals
+- [Web Scrapping][1]: for when I want to waste more hours building a program than it would take to copy and paste the whole site 
+- [Backend Development][2]: you know, databases are fun
+- [Frontend Development][3]: the glamour of coding, who wouldn't love it?
+- [DevOps][4]: because infrastructure is just a chore
+- [Miscellaneous][5]: where I go crazy
 
-Well, that's all folks. I hope you enjoy browsing through my work, feel free to reach out with any questions!
+I hope you enjoy browsing through my work and feel free to reach out if any questions. ~Also, don't click on those buttons below, they are not working.~  
+Passa una bella giornata, bye! 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/gmail-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)
