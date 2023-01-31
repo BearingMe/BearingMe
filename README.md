@@ -8,7 +8,7 @@ Every project I like, being big or small, old or new, may be showcased here. So,
 - 💬 Can go by He/Him, They/Their;
 - 🎓 Studying Civil Eng;
 - 🐍 Python lover, 🦀 Rust fanatic & 🐧 Linux nut
-- 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian food;
+- 🇯🇵 Fan of Japanese culture & 🇮🇹 Italian music;
 - 🤪 Speaking English like a boss...sorta.
 
 Well, that's all folks. I hope you enjoy browsing through my work, feel free to reach out with any questions!
